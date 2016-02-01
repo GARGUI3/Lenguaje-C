@@ -1,2 +1,2 @@
-# Lenguaje-C
+# Lenguaje C
 Ejercicios en C/C++
